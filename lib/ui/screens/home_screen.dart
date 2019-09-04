@@ -7,8 +7,8 @@ import 'package:food_app/login/google_login_button.dart';
 import 'package:food_app/model/food.dart';
 import 'package:food_app/utils/store.dart';
 import 'package:food_app/ui/widgets/recipe_card.dart';
-import 'package:food_app/state_widget.dart';
 import 'package:food_app/model/state.dart';
+import 'package:food_app/utils/user_repository.dart';
 
 class HomeScreen extends StatefulWidget {
   @override

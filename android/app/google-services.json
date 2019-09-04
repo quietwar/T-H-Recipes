@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "429594645951",
+    "firebase_url": "https://t-h-recipes.firebaseio.com",
+    "project_id": "t-h-recipes",
+    "storage_bucket": "t-h-recipes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429594645951:android:eab63921fc9f0053",
+        "android_client_info": {
+          "package_name": "com.hgp.threcipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429594645951-mjvn6g47rk5h1ao6aus5uoemj9dv5va8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hgp.threcipes",
+            "certificate_hash": "a6629a74f437083640b3751b82b5496a691015cf"
+          }
+        },
+        {
+          "client_id": "429594645951-d8s7v7hf0npbbgcqtadbd99rfvgd12sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxC3aMsMwB8PPn5Wdb1hiuVg6B4ex6QSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429594645951-d8s7v7hf0npbbgcqtadbd99rfvgd12sl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429594645951-v02if8jrkapq7ln6iq6lra7eo8bfg6dh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hgp.HTRecipe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

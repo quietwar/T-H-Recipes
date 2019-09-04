@@ -34,7 +34,7 @@ class _LoginScreenState extends State<LoginScreen> {
       appBar: AppBar(title: Text('Welcome back family',
       style: TextStyle(color:Colors.black),
       ),
-        backgroundColor: Colors.yellow[200]),
+        backgroundColor: Colors.amber[100]),
         backgroundColor: Colors.brown[50], 
       body: BlocProvider<LoginBloc>(
         builder: (context) => LoginBloc(userRepository: _userRepository),
